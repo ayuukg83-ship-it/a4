@@ -7,6 +7,22 @@
     <meta name="description" content="Original wardrobe guidance, timeless outfit ideas and considered style inspiration.">
     <link rel="canonical" href="https://timelessstylehub.com/">
     <link rel="stylesheet" href="style.css">
+    <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('consent', 'default', {
+    'analytics_storage': 'denied',
+    'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'wait_for_update': 500
+  });
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script>
+<script>
+  gtag('js', new Date());
+  gtag('config', 'G-0LY0HY7L01', { 'anonymize_ip': true });
+</script>
   </head>
   <body>
     <header>
